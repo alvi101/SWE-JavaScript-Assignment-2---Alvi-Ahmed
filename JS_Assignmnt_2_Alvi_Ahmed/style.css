@@ -1,0 +1,93 @@
+#sort-button {
+  padding: 5px 10px;
+}
+
+#blog-button {
+  padding: 5px 10px;
+}
+
+.my-button {
+  padding: 5px 10px;
+  border-radius: 50px;
+  margin-bottom: 30px;
+}
+
+#button-area {
+  justify-content: center;
+  display: flex;
+}
+
+#header-area {
+  text-align: center;
+}
+
+.video-area {
+  height: 100vh;
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.video-preview {
+  width: 400px;
+  height: 400px;
+}
+
+.thumbnail {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.channel-image {
+  width: 50px;
+  border-radius: 50px;
+}
+
+.video-details {
+  display: flex;
+  margin-top: 15px;
+}
+
+.left-details {
+  width: 50px;
+  margin-right: 10px;
+}
+
+.right-details {
+  flex: 1;
+}
+
+.video-title {
+  margin-bottom: 5;
+}
+
+.video-creator {
+  margin-bottom: 0;
+  margin-right: 5px;
+}
+
+.error-page {
+  width: 100%;
+  text-align: center;
+}
+
+.error-img {
+  margin-bottom: 30px;
+}
+
+.verified {
+  width: 25px;
+}
+
+#blog-body {
+  background-image: url("./blog-background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.blog-answers {
+  margin-top: 100px;
+}
